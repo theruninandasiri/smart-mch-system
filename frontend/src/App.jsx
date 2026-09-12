@@ -41,7 +41,7 @@ function GlobalFooter() {
         userSelect: 'none',
       }}>
         <span style={{ color: 'rgba(255,255,255,0.4)', fontSize: '0.62rem' }}>
-          Copyright © 2026 - Ministry of Health - All Rights Reserved.
+          Copyright © 2026 - All Rights Reserved.
         </span>
       </div>
     </div>

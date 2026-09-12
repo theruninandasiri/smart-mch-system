@@ -398,9 +398,8 @@ export default function MotherPortal() {
           <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1rem' }}>
             <img src="/logo.png" alt="MOH Logo" style={{ height: '48px', objectFit: 'contain',borderRadius:'50px' }} />
             <div>
-              <p style={{ margin: 0, fontSize: '0.6rem', opacity: 0.55, letterSpacing: '0.05em', textTransform: 'uppercase' }}>සෞඛ්‍ය අමාත්‍යාංශය</p>
-              <p style={{ margin: '0.1rem 0 0', fontSize: '0.6rem', opacity: 0.55 }}>சுகாதார அமைச்சு</p>
-              <h3 style={{ margin: '0.1rem 0 0', fontSize: '0.85rem', fontWeight: '700' }}>Ministry of Health</h3>
+              
+              <h3 style={{ margin: '0.1rem 0 0', fontSize: '0.85rem', fontWeight: '700' }}>Smart MCH System</h3>
             </div>
           </div>
           <div style={{ backgroundColor: 'rgba(255,255,255,0.08)', borderRadius: '10px', padding: '0.65rem 0.875rem' }}>

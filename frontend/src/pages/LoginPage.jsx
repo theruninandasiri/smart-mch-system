@@ -127,8 +127,8 @@ function LoginPage() {
         gap: '1rem', flexShrink: 0,
       }}>
         <div style={{ color: 'rgba(255,255,255,0.93)', fontSize: '0.76rem', whiteSpace: 'nowrap' }}>
-          {t('ministryOfHealth')}
-        </div>
+  Smart MCH System | Sri Lanka
+</div>
 
         <form onSubmit={handleLogin} style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
           <select value={role} onChange={e => setRole(e.target.value)} style={{ ...inputStyle, width: '140px', cursor: 'pointer', appearance: 'auto', fontSize: '0.75rem' }}>
