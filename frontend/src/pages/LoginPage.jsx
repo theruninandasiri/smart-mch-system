@@ -275,7 +275,7 @@ function LoginPage() {
         alignItems: 'center', flexShrink: 0,
         color: 'rgba(255,255,255,0.4)', fontSize: '0.72rem', textAlign: 'center',
       }}>
-        {t('copyright')}
+        Copyright © 2026 - All Rights Reserved.
       </div>
 
       {/* Register User */}
